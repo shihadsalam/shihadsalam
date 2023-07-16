@@ -52,11 +52,11 @@ Technical Architect with 13 plus years of experience in designing and implementi
       <br>Hibernate
   </td>
   <td align="center"  width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="HTML" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="HTML" />
       <br>MongoDB
   </td>
   <td align="center"  width="96">
-      <img src="https://skillicons.dev/icons?i=cassandra" width="48" height="48" alt="HTML" />
+      <img src="https://skillicons.dev/icons?i=cassandra" width="65" height="65" alt="HTML" />
       <br>Cassandra
   </td>
   <td align="center" width="96">
@@ -64,15 +64,15 @@ Technical Architect with 13 plus years of experience in designing and implementi
       <br>MySQL
   </td>
   <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="Git" />
       <br>PostgreSQL
   </td>
   <td align="center"  width="96">
-      <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="HTML" />
+      <img src="https://skillicons.dev/icons?i=rabbitmq" width="65" height="65" alt="HTML" />
       <br>RabbitMQ
   </td>
   <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=azure" width="65" height="65" alt="Git" />
       <br>Azure
     </td>
   </tr>
@@ -86,27 +86,27 @@ Technical Architect with 13 plus years of experience in designing and implementi
       <br>Kubernetes
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=prometheus" width="65" height="65" alt="css" />
       <br>Prometheus
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=grafana" width="65" height="65" alt="css" />
       <br>Grafana
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=jenkins" width="4658" height="65" alt="css" />
       <br>Jenkins
     </td>
        <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="GitHub" />
+        <img src="https://skillicons.dev/icons?i=maven" width="65" height="65" alt="GitHub" />
       <br>Maven
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="tailwind" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="tailwind" />
       <br>React
     </td>
  </tr>

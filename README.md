@@ -99,7 +99,7 @@ Technical Architect with 13 plus years of experience in designing and implementi
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="tailwind" />
-      <br>React [Beginner]
+      <br>React
     </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="tailwind" />

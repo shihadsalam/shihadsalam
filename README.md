@@ -72,8 +72,8 @@ Technical Architect with 13 plus years of experience in designing and implementi
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
-      <br>Github
+        <img src="https://techstack-generator.vercel.app/maven-icon.svg" width="48" height="48" alt="GitHub" />
+      <br>Maven
     </td>
   </tr>
  <tr>
@@ -98,8 +98,8 @@ Technical Architect with 13 plus years of experience in designing and implementi
       <br>Jenkins
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="tailwind" />
-      <br>Maven
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="tailwind" />
+      <br>React [Beginner]
     </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="tailwind" />

@@ -38,7 +38,7 @@ Technical Architect with 13 plus years of experience in designing and implementi
       <br>Redis
     </td>
     <td align="center" width="96">
-      <img src="https://icons8.com/icon/aGBLcugRkYpT/elasticsearch" alt="icon" width="65" height="65" />
+      <img src="https://drive.google.com/uc?export=view&id=1c6Uwcu_i8_6QHShbGgAqaKHfW8MboWKy" alt="icon" width="65" height="65" />
       <br>ElasticSearch
   </td>
   </tr>

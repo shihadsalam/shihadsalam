@@ -117,7 +117,7 @@ Technical Architect with 13 plus years of experience in designing and implementi
   <tr>
     <td align="center" width="283">
         <img src="https://drive.google.com/uc?export=view&id=1Dyl3XvcLoYDlKn4vhf07Zie41LH3eHVT" alt="icon" width="100" height="100" />
-        <br>The Open Group (TOGAF) Certified Enterprise Architect
+        <br>TOGAF Certified Enterprise Architect
     </td>
     <td align="center" width="283">
         <img src="https://drive.google.com/uc?export=view&id=1TIe1qA2VnnXBuxhzXStnqrsj6HuAmx6E" alt="icon" width="100" height="100" />
@@ -125,7 +125,7 @@ Technical Architect with 13 plus years of experience in designing and implementi
     </td>
     <td align="center" width="283">
         <img src="https://drive.google.com/uc?export=view&id=15QUkYR9xeM6Pk2rihSWDjASLT87gbHeQ" alt="icon" width="100" height="100" />
-        <br>Oracle Certified Java Web Component Developer Expert
+        <br>Oracle Certified Java Web Developer Expert
     </td>
   </tr>
 </table>

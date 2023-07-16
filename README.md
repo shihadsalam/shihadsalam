@@ -14,7 +14,7 @@ Technical Architect with 13 plus years of experience in designing and implementi
       <br>Java
   </td>
   <td align="center" width="96">
-      <img src="https://drive.google.com/uc?export=view&id=14TK8XkqedUMRV0o7J2Vg43MjwPBVsihy" alt="icon" width="65" height="65" />
+      <img src="https://drive.google.com/uc?export=view&id=1M69zwp3XeOgbOgc5gJUNcZdmBtjd6XnV" alt="icon" width="65" height="65" />
       <br>SpringBoot
   </td>
     <td align="center" width="96">

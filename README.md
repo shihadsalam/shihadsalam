@@ -63,6 +63,10 @@ Technical Architect with 13 plus years of experience in designing and implementi
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
   </td>
+ <td align="center" width="96"> 
+        <img src="https://drive.google.com/uc?export=view&id=1ZSGrUqRoCcn57aKBR9IABY_QEKSMIo4A" width="65" height="65" alt="Git" />
+      <br>Oracle
+  </td>
   <td align="center" width="96"> 
         <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="Git" />
       <br>PostgreSQL
@@ -71,10 +75,6 @@ Technical Architect with 13 plus years of experience in designing and implementi
       <img src="https://skillicons.dev/icons?i=rabbitmq" width="65" height="65" alt="HTML" />
       <br>RabbitMQ
   </td>
-  <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=azure" width="65" height="65" alt="Git" />
-      <br>Azure
-    </td>
   </tr>
  <tr>
     <td align="center" width="96">

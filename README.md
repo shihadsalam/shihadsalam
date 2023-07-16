@@ -125,7 +125,7 @@ Technical Architect with 13 plus years of experience in designing and implementi
     </td>
     <td align="center" width="283">
         <img src="https://drive.google.com/uc?export=view&id=15QUkYR9xeM6Pk2rihSWDjASLT87gbHeQ" alt="icon" width="100" height="100" />
-        <br>Oracle Certified Java Web Developer Expert
+        <br>Oracle Certified Java Web Developer
     </td>
   </tr>
 </table>

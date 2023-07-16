@@ -13,10 +13,10 @@ Technical Architect with 13 plus years of experience in designing and implementi
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       <br>Java
   </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="65" height="65"alt="Dart" />
-      <br>Spring
-    </td>
+  <td align="center" width="96">
+      <img src="https://drive.google.com/uc?export=view&id=14TK8XkqedUMRV0o7J2Vg43MjwPBVsihy" alt="icon" width="65" height="65" />
+      <br>SpringBoot
+  </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
@@ -38,11 +38,19 @@ Technical Architect with 13 plus years of experience in designing and implementi
       <br>Redis
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=hibernate" alt="icon" width="65" height="65" />
-      <br>Hibernate
-    </td>
+      <img src="https://icons8.com/icon/aGBLcugRkYpT/elasticsearch" alt="icon" width="65" height="65" />
+      <br>ElasticSearch
+  </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="65" height="65"alt="Dart" />
+      <br>Spring
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=hibernate" alt="icon" width="65" height="65" />
+      <br>Hibernate
+  </td>
   <td align="center"  width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="HTML" />
       <br>Mongo DB
@@ -67,17 +75,9 @@ Technical Architect with 13 plus years of experience in designing and implementi
         <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Git" />
       <br>Azure
     </td>
-    <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="GitHub" />
-      <br>Maven
-    </td>
   </tr>
  <tr>
-<td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
@@ -97,18 +97,18 @@ Technical Architect with 13 plus years of experience in designing and implementi
         <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="css" />
       <br>Jenkins
     </td>
+       <td align="center" width="96"> 
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="GitHub" />
+      <br>Maven
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="tailwind" />
       <br>React
     </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="tailwind" />
-      <br>Eclipse
-    </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-      </td>
  </tr>
 </table>
 

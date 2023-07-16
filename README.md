@@ -53,7 +53,7 @@ Technical Architect with 13 plus years of experience in designing and implementi
   </td>
   <td align="center"  width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="HTML" />
-      <br>Mongo DB
+      <br>MongoDB
   </td>
   <td align="center"  width="96">
       <img src="https://skillicons.dev/icons?i=cassandra" width="48" height="48" alt="HTML" />
@@ -69,7 +69,7 @@ Technical Architect with 13 plus years of experience in designing and implementi
   </td>
   <td align="center"  width="96">
       <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="HTML" />
-      <br>Rabbit MQ
+      <br>RabbitMQ
   </td>
   <td align="center" width="96"> 
         <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Git" />

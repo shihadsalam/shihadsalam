@@ -3,7 +3,7 @@
 [<img align="center" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 ##
 
-Technical Architect with 13 plus years of experience in designing and implementing distributed & scalable cloud-native software products and services using Java and related frameworks in public cloud infrastructures such as AWS and Azure. Core skills inlcudes Enterprise Architecture, Technical Architecture & Implementation, Design & Estimation Proposals, Engineering Team Management, Business Stakeholder Interactions, Team Mentoring etc
+Technical Architect with 14 plus years of experience in designing and implementing distributed & scalable cloud-native software products and services using Java and related frameworks in public cloud infrastructures such as AWS and Azure. Core skills inlcudes Enterprise Architecture, Technical Architecture & Implementation, Design & Estimation Proposals, Engineering Team Management, Business Stakeholder Interactions, Team Mentoring etc
 
 ## 🧰 Tech Toolbox 
 
